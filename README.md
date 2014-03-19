@@ -1,7 +1,7 @@
 Challenge-Python
 ================
 
-Python answers to the 100 Programming Challenges.\
+Python answers to the 100 Programming Challenges.
 
 The challenges can change over time, so any that are replaced are put in a folder called ```[problem #]-DEPRECATED.```
 
