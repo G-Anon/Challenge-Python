@@ -45,3 +45,4 @@ if choice == '1':
     print "Your password is: ", generator()
 if choice == '2':
     print "Your password is: ", generator(length, upper, lower, number, symbol)
+
